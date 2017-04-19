@@ -1,0 +1,13 @@
+{
+  "name": "x-sass-mixins",
+  "description": "a small but crescent list off sass mixins",
+  "keywords": [
+    "sass",
+    "scss",
+    "mixins"
+  ],
+  "authors": [
+    "Igor Sousa <igor.ssqwe@gmail.com>"
+  ],
+  "license": "MIT"
+}
